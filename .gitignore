@@ -1,3 +1,4 @@
 # Ignore all SQLite databases
+# add Hi to test stage and commit
 
 db/*.sqlite3
